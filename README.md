@@ -1,13 +1,9 @@
-# form-js
-Easily develop forms on the go with this library. Fast, Easy and simple to understand.
-Swiper
+# Former Js
 ==========
 
-[![Greenkeeper badge](https://badges.greenkeeper.io/nolimits4web/Swiper.svg)](https://greenkeeper.io/)
+Former Js - is a free and most modern framework developed to make developing forms as simple as possible. It is intended to make forms as responsive and good-looking as possible.
 
-Swiper - is the free and most modern mobile touch slider with hardware accelerated transitions and amazing native behavior. It is intended to be used in mobile websites, mobile web apps, and mobile native/hybrid apps.
-
-Swiper is not compatible with all platforms, it is a modern touch slider which is focused only on modern apps/platforms to bring the best experience and simplicity.
+Former Js is compatible with all Platforms
 
 # Getting Started
   * [Getting Started Guide](https://swiperjs.com/get-started/)
