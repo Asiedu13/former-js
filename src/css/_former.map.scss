@@ -1,0 +1,196 @@
+$dark: #222;
+$yellow: #ffc107;
+$blue: #007bff;
+$red: #dc3445;
+$green: #a1ffa8;
+$white: #ffffff;
+
+$main-font: "Allerta Stencil";
+$side-font: "Meera Inimai";
+$extra-font: "Oxygen";
+
+// Import Fonts
+@import url('https://fonts.googleapis.com/css?family=Allerta Stencil');
+@import url('https://fonts.googleapis.com/css?family=Meera Inimai');
+@import url('https://fonts.googleapis.com/css?family=Oxygen:wght@300');
+
+/* Background Classes */
+.former-bg-dark{
+    background: $dark!important;
+}
+.former-bg-yellow{
+    background: $yellow!important;
+}
+.former-bg-blue{
+    background: $blue!important;
+}
+.former-bg-red{
+    background: $red!important;
+}
+.former-bg-green{
+    background: $green!important;
+}
+.former-bg-white{
+    background: $white!important;
+}
+
+
+
+/* Color Classes */
+.former-text-dark{
+    color: $dark!important;
+}
+.former-text-yellow{
+    color: $yellow!important;
+}
+.former-text-blue{
+    color: $blue!important;
+}
+.former-text-red{
+    color: $red!important;
+}
+.former-text-green{
+    color: $green!important;
+}
+.former-text-white{
+    color: $white!important;
+}
+
+
+
+/* Box Shadow Classes */
+.former-box-sm{
+    box-shadow:0 .125rem .25rem rgba(0,0,0,.35)!important;
+}
+.former-box-md{
+    box-shadow:0 .5rem 1rem rgba(0,0,0,.35)!important;
+}
+.former-box-lg{
+    box-shadow:0 1rem 3rem rgba(0,0,0,.35)!important;
+}
+.former-box-none{
+    box-shadow:none!important;
+}
+
+
+
+/* Border Radius Classes */
+.former-radius-sm{
+    border-radius: 10px!important;
+}
+.former-radius-md{
+    border-radius: 20px!important;
+}
+
+
+/* Page Styling */
+.former-page{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    z-index: 9999999;
+}
+
+.former-form{
+    padding: 15px 0px;
+    padding-bottom: 0;
+    width: 400px;
+    height: max-content;
+}
+
+.form-line{
+    border: 0;
+    border-top: 1px solid rgba(0,0,0,.4);
+    width: 90%;
+    margin: 5px auto;
+}
+
+.former-title {
+  font-family: $main-font;
+  text-align: center;
+  font-size: 30px;
+  font-weight: bold;
+  margin: 0;
+}
+
+.former-subtitle{
+    font-family: $side-font;
+    margin: 0;
+    margin-top: 5px;
+    font-size: 20px;
+    text-align: center;
+}
+
+.former-field{
+    margin: 0;
+    margin-top: 10px;
+    width: 100%;
+    height: 300px;
+    background: white;
+}
+
+.former-right{
+    font-family: $side-font;
+    margin:15px 0px;
+    font-size: 20px;
+    text-align: center;
+}
+
+/* Responsiveness */
+ /* Tablets */
+@media only screen and (min-width: 600px){
+    .former-form{
+        width: 400px;;
+    }
+    .former-title{
+        font-size: 30px;
+    }
+    .former-subtitle{
+        font-size: 20px;
+    }
+}
+
+/* Desktops */
+@media only screen and (min-width: 768px){
+    .former-form{
+        width: 400px;
+    }
+    .former-title{
+        font-size: 30px;
+    }
+    .former-subtitle{
+        font-size: 20px;
+    }
+}
+
+/* Laptops and Some Desktops */
+@media only screen and (min-width: 992px){
+    .former-form{
+        width: 400px;
+    }
+    .former-title{
+        font-size: 30px;
+    }
+    .former-subtitle{
+        font-size: 20px;
+    }
+}
+
+/* Large Laptops & Desktops */
+@media only screen and (min-width: 1200px){
+    .former-form{
+        width: 500px;
+    }
+    .former-title{
+        font-size: 30px;
+    }
+    .former-subtitle{
+        font-size: 20px;
+    }
+}
