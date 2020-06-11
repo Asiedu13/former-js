@@ -3,8 +3,13 @@
 Former Js - is a free and most modern framework developed to make developing forms as simple as possible. It is intended to make forms as responsive and good-looking as possible. Former JS is compatible with all platforms as well as modern browsers. Former is currently not available via CDN therefore must be downloaded and linked to projects in order for effective functioning.
 
 # Getting Started
-Former is available via Github on
-[Github Former](https://github.com/tonysaah/form-js/blob/master/)
+Former can be accessed via github
+[Gitub Page](https://github.com/tonysaah/form-js/blob/master/)
+
+# What Former can Do
+> Hiding and Showing Forms
+Former is excellent with form switching without reloading of pages.
+
 
 # Dist / Build
 
