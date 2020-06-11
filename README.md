@@ -10,19 +10,19 @@ Former JS is compatible with all platforms as well as modern browsers. Former is
 ## Linking Former JS
 You can link either the main former file (former.js) or the minified version (former.min.js)
 
-``` <script src='former-js/src/former.js'></script> ```
+```html <script src='former-js/src/former.js'></script> ```
 
 > Or the minified version
 
-``` <script src='former-js/src/former.min.js'></script> ```
+```html <script src='former-js/src/former.min.js'></script> ```
 
 ## The Css
 In order to former to fully operate you need to also need to link the stylesheets provided
 
-``` <link rel='stylesheet' href='former-js/src/css/former.css'> ```
+```html <link rel='stylesheet' href='former-js/src/css/former.css'> ```
 > Or the minified version
 
-``` <link rel='stylesheet' href='former-js/src/css/former.min.css'> ```
+```html <link rel='stylesheet' href='former-js/src/css/former.min.css'> ```
 
 ## Creating a One Page Form
 Former JS can be used to create a form which occupies the entire width and height of a page to facilitate design.
