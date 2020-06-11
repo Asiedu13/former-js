@@ -5,10 +5,13 @@ Former Js - is a free and most modern framework developed to make developing for
 # Getting Started
 Former can be accessed via github
 [Gitub Page](https://github.com/tonysaah/form-js/blob/master/)
+Former JS is compatible with all platforms as well as modern browsers. Former is currently not available via CDN therefore must be downloaded and linked to projects in order for effective functioning.
+
 
 # What Former can Do
-> Hiding and Showing Forms
-Former is excellent with form switching without reloading of pages.
+  1. Hide or show forms
+Former is excellent with form switching without reloading a page. This is quite helpful when you want to apply smooth animations when switching between forms (such as login and signup) on the same part of the page.
+
 
 
 # Dist / Build
