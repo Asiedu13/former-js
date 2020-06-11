@@ -24,7 +24,7 @@ Former JS can be used to create a form which occupies the entire width and heigh
   
 </div>
 ```
-You can add former utility classes to further customize your container - [Utility Classes]()
+You can add former utility classes to further customize your container - [Utility Classes](#utitlity-classes)
 
 # Utitlity Classes
 Utility Classes on Former JS help with basic styling and responsiveness for your project. They include properties such as backgrounds, colors, border-radius, box-shadows, text-shadows and more.
