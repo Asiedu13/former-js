@@ -1,74 +1,20 @@
 # Former Js
-==========
 
 Former Js - is a free and most modern framework developed to make developing forms as simple as possible. It is intended to make forms as responsive and good-looking as possible.
 
 Former Js is compatible with all Platforms
 
 # Getting Started
-  * [Getting Started Guide](https://swiperjs.com/get-started/)
-  * [API](https://swiperjs.com/api/)
-  * [Demos](https://swiperjs.com/demos/)
+  Former JS is not yet available via cdn therefore resources will have to be downloaded and included in projects to work.
+  You can download the library by clicking the link below.
 
 # Dist / Build
 
 On production use files (JS and CSS) only from `package/` folder, there will be the most stable versions, `build/` folder is only for development purpose.
 
-### Development Build
-
-Swiper uses `gulp` to build a development (build) and production (dist) versions.
-
-First you need to have `gulp-cli` which you should install globally.
-
-```
-$ npm install --global gulp
-```
-
-Then install all dependencies, in repo's root:
-
-```
-$ npm install
-```
-
-And build development version of Swiper:
-```
-$ npm run build:dev
-```
-
-The result is available in `build/` folder.
-
-### Production Build
-
-```
-$ npm run build:prod
-```
-
-Production version will available in `package/` folder.
-
 # Contributing
 
 All changes should be committed to `src/` files only. Before you open an issue please review the [contributing](https://github.com/nolimits4web/Swiper/blob/master/CONTRIBUTING.md) guideline.
 
-Swiper 4.x
-==========
-
-If you are still using Swiper 4.x.x, you may find it in [Swiper4 Branch](https://github.com/nolimits4web/Swiper/tree/Swiper4)
-* [Download Latest Swiper 4.5.3](https://github.com/nolimits4web/Swiper/archive/v4.5.3.zip)
-* [Source Files](https://github.com/nolimits4web/Swiper/tree/Swiper4/src)
-* [API](https://github.com/nolimits4web/Swiper/blob/Swiper4/API.md)
-
-Swiper 3.x
-==========
-
-If you are still using Swiper 3.x.x, you may find it in [Swiper3 Branch](https://github.com/nolimits4web/Swiper/tree/Swiper3)
-* [Download Latest Swiper 3.4.2](https://github.com/nolimits4web/Swiper/archive/v3.4.2.zip)
-* [Source Files](https://github.com/nolimits4web/Swiper/tree/Swiper3/src)
-* [API](https://github.com/nolimits4web/Swiper/blob/Swiper3/API.md)
-
-Swiper 2.x
-==========
-
-If you are still using Swiper 2.x.x or you need old browsers support, you may find it in [Swiper2 Branch](https://github.com/nolimits4web/Swiper/tree/Swiper2)
-* [Download Latest Swiper 2.7.6](https://github.com/nolimits4web/Swiper/archive/v2.7.6.zip)
-* [Source Files](https://github.com/nolimits4web/Swiper/tree/Swiper2/src)
-* [API](https://github.com/nolimits4web/Swiper/blob/Swiper2/API.md)
+# Switching Forms
+Form states can be toggled easily by adding *.switch-form* to the element to trigger the change
