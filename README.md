@@ -7,16 +7,10 @@ Former can be accessed via github
 [Gitub Page](https://github.com/tonysaah/form-js/blob/master/)
 Former JS is compatible with all platforms as well as modern browsers. Former is currently not available via CDN therefore must be downloaded and linked to projects in order for effective functioning.
 
+# Switching Forms
 
-# What Former can Do
-   ### Hide or show forms
-    Former is excellent with form switching without reloading a page. This is quite helpful when you want to apply smooth animations when switching between forms (such as login and signup) on the same part of the page.
-
-
-
-# Dist / Build
-
-On production use files (JS and CSS) only from `package/` folder, there will be the most stable versions, `build/` folder is only for development purpose.
+You can toggle the display of forms available on a page with ease. To do this, you should first have a trigger element, A Trigger element is and element which will perform the toggle function when it is clicked. For instance, a `<p>` element will do.
+         <p>Already Have an Account</p>
 
 # Contributing
 
