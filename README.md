@@ -35,7 +35,7 @@ You can add former utility classes to further customize your container - [Utilit
   </div>
 ```
 
-Notice the `former-bg-red` and `former-bg-white` classes. Again, they are examples of utility classes for background colors. [View More Background Classes](#backgroundutilityclasses)
+Notice the `former-bg-red` and `former-bg-white` classes. Again, they are examples of utility classes for background colors. [View More Background Classes](#background-utility-classes)
 
 # Utitlity Classes
 Utility Classes on Former JS help with basic styling and responsiveness for your project. They include properties such as backgrounds, colors, border-radius, box-shadows, text-shadows and more.
