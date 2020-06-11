@@ -8,7 +8,10 @@ Former can be accessed via github
 Former JS is compatible with all platforms as well as modern browsers. Former is currently not available via CDN therefore must be downloaded and linked to projects in order for effective functioning.
 
 ## Linking Former JS
-1. Link former to you project
 You can link either the main former file (former.js) or the minified version (former.min.js)
 
 ``` <script src='former-js/former.js'></script> ```
+
+> Or the minified version
+
+``` <script src='former-js/former.min.js'></script> ```
