@@ -29,20 +29,28 @@ Former JS can be used to create a form which occupies the entire width and heigh
 Utility Classes on Former JS help with basic styling and responsiveness for your project. They include properties such as backgrounds, colors, border-radius, box-shadows, text-shadows and more.
 ### Background Color Classes
 ```
-  .fb-dark
-  .fb-yellow
-  .fb-blue
-  .fb-red
-  .fb-green
-  .fb-white
+  .fb-dark - Dark Background Color
+  .fb-yellow - Yellow Background Color
+  .fb-blue - Blue Background Color
+  .fb-red - Red Background Color
+  .fb-green - Green Background Color
+  .fb-white - White Background Color
 ```
 
 ### Text Color Classes
 ```
-  .ft-dark
-  .ft-yellow
-  .ft-blue
-  .ft-red
-  .ft-green
-  .ft-white
+  .ft-dark - Dark Text Color
+  .ft-yellow - Yellow Text Color
+  .ft-blue - Blue Text Color
+  .ft-red - Red Text Color
+  .ft-green - Green Text Color
+  .ft-white - White Text Color
+```
+
+### Box Shadow Classes
+```
+  .fbx-sm - Small Box Shadow
+  .fbx-md - Medium Box Shadow
+  .fbx-lg - Large Box Shadow
+  .fbx-none - No Box Shadow
 ```
