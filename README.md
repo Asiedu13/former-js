@@ -10,11 +10,4 @@ Former JS is compatible with all platforms as well as modern browsers. Former is
 # Switching Forms
 
 You can toggle the display of forms available on a page with ease. To do this, you should first have a trigger element, A Trigger element is and element which will perform the toggle function when it is clicked. For instance, a `<p>` element will do.
-         <p>Already Have an Account</p>
-
-# Contributing
-
-All changes should be committed to `src/` files only. Before you open an issue please review the [contributing](https://github.com/nolimits4web/Swiper/blob/master/CONTRIBUTING.md) guideline.
-
-# Switching Forms
-Form states can be toggled easily by adding *.switch-form* to the element to trigger the change
+         <code><p>Already Have an Account</p</code>
