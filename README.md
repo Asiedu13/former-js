@@ -7,10 +7,8 @@ Former can be accessed via github
 [Gitub Page](https://github.com/tonysaah/form-js/blob/master/)
 Former JS is compatible with all platforms as well as modern browsers. Former is currently not available via CDN therefore must be downloaded and linked to projects in order for effective functioning.
 
-# Switching Forms
+## Linking Former JS
+1. Link former to you project
+You can link either the main former file (former.js) or the minified version (former.min.js)
 
-You can toggle the display of forms available on a page with ease. To do this, you should first have a trigger element, A Trigger element is and element which will perform the toggle function when it is clicked. For instance, a `<p>` element will do.
-```
-         <p>Already Have An Account</p>
-```
-The trigger element should not necessarily be a button a link. It can be any element of your choice.
+``` <script src='former-js/former.js'></script> ```
