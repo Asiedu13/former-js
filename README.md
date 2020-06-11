@@ -20,7 +20,29 @@ You can link either the main former file (former.js) or the minified version (fo
 Former JS can be used to create a form which occupies the entire width and height of a page to facilitate design.
 1.First Create a container with class 'former-page' .
 ```
-<div class='former-container'>
+<div class='former-page'>
   
 </div>
+```
+
+# Utitlity Classes
+Utility Classes on Former JS help with basic styling and responsiveness for your project. They include properties such as backgrounds, colors, border-radius, box-shadows, text-shadows and more.
+### Background Color Classes
+```
+  .fb-dark
+  .fb-yellow
+  .fb-blue
+  .fb-red
+  .fb-green
+  .fb-white
+```
+
+### Text Color Classes
+```
+  .ft-dark
+  .ft-yellow
+  .ft-blue
+  .ft-red
+  .ft-green
+  .ft-white
 ```
