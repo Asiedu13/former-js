@@ -10,11 +10,11 @@ Former JS is compatible with all platforms as well as modern browsers. Former is
 ## Linking Former JS
 You can link either the main former file (former.js) or the minified version (former.min.js)
 
-``` <script src='former-js/former.js'></script> ```
+``` <script src='former-js/src/former.js'></script> ```
 
 > Or the minified version
 
-``` <script src='former-js/former.min.js'></script> ```
+``` <script src='former-js/src/former.min.js'></script> ```
 
 ## Creating a One Page Form
 Former JS can be used to create a form which occupies the entire width and height of a page to facilitate design.
@@ -24,6 +24,7 @@ Former JS can be used to create a form which occupies the entire width and heigh
   
 </div>
 ```
+You can add former utility classes to further customize your container - [Utility Classes]()
 
 # Utitlity Classes
 Utility Classes on Former JS help with basic styling and responsiveness for your project. They include properties such as backgrounds, colors, border-radius, box-shadows, text-shadows and more.
