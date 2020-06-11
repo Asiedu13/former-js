@@ -44,12 +44,10 @@ You can add former utility classes to further customize your container - [Utilit
 ```html
   <div class='former-page former-bg-red'>
     <form class='former-form former-bg-white'>
-      <p class='former-title'>Login Form</p>
-      <p class='former-subtitile>Connect to your Account</p>
+      
     </form>
   </div>
 ```
-
 
 Notice the `former-bg-red` and `former-bg-white` classes. Again, they are examples of utility classes for background colors. [View More Background Classes](#background-utility-classes)
 
@@ -57,7 +55,8 @@ Notice the `former-bg-red` and `former-bg-white` classes. Again, they are exampl
 ```html
   <div class='former-page former-bg-red'>
     <form class='former-form former-bg-white'>
-      
+      <p class='former-title'>Login Form</p>
+      <p class='former-subtitile>Connect to your Account</p>
     </form>
   </div>
 ```
