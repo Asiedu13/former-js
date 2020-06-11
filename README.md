@@ -18,13 +18,24 @@ You can link either the main former file (former.js) or the minified version (fo
 
 ## Creating a One Page Form
 Former JS can be used to create a form which occupies the entire width and height of a page to facilitate design.
-1.First Create a container with class 'former-page' .
+1.First Create a container with class='former-page' .
 ```
-<div class='former-page'>
+<div class='former-page former-bg-red'>
   
 </div>
 ```
 You can add former utility classes to further customize your container - [Utility Classes](#utitlity-classes)
+
+2. Create your form element with class='former-page'
+```
+  <div class='former-page former-bg-red'>
+    <form class='former-form former-bg-white'>
+    
+    </form>
+  </div>
+```
+
+Notice the `former-bg-red` and `former-bg-white` classes. Again, they are examples of utility classes for background colors. [View More Background Classes](#backgroundutilityclasses)
 
 # Utitlity Classes
 Utility Classes on Former JS help with basic styling and responsiveness for your project. They include properties such as backgrounds, colors, border-radius, box-shadows, text-shadows and more.
