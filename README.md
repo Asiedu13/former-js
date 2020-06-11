@@ -15,3 +15,12 @@ You can link either the main former file (former.js) or the minified version (fo
 > Or the minified version
 
 ``` <script src='former-js/former.min.js'></script> ```
+
+## Creating a One Page Form
+Former JS can be used to create a form which occupies the entire width and height of a page to facilitate design.
+1.First Create a container with class 'former-page' .
+```
+<div class='former-container'>
+  
+</div>
+```
