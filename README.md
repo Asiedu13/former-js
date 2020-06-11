@@ -1,8 +1,6 @@
 # Former Js
 
-Former Js - is a free and most modern framework developed to make developing forms as simple as possible. It is intended to make forms as responsive and good-looking as possible.
-
-Former Js is compatible with all Platforms
+Former Js - is a free and most modern framework developed to make developing forms as simple as possible. It is intended to make forms as responsive and good-looking as possible. Former JS is compatible with all platforms as well as modern browsers.
 
 # Getting Started
   Former JS is not yet available via cdn therefore resources will have to be downloaded and included in projects to work.
