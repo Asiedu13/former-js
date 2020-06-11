@@ -10,4 +10,7 @@ Former JS is compatible with all platforms as well as modern browsers. Former is
 # Switching Forms
 
 You can toggle the display of forms available on a page with ease. To do this, you should first have a trigger element, A Trigger element is and element which will perform the toggle function when it is clicked. For instance, a `<p>` element will do.
-         <code><p>Already Have an Account</p</code>
+```
+         <p>Already Have An Account</p>
+```
+The trigger element should not necessarily be a button a link. It can be any element of your choice.
