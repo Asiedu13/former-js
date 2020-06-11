@@ -9,7 +9,7 @@ Former JS is compatible with all platforms as well as modern browsers. Former is
 
 
 # What Former can Do
-  1. Hide or show forms
+    ### Hide or show forms
 Former is excellent with form switching without reloading a page. This is quite helpful when you want to apply smooth animations when switching between forms (such as login and signup) on the same part of the page.
 
 
